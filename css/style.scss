@@ -113,6 +113,7 @@ button.btn, input.btn {
 	2.0 Home Hero
 --------------------------------------------------------------*/
 .hero-container {
+  background-color: #f3d2c1;
   margin: 10em 0 9em 0;
   @include bp-xsmall {
     margin: 5em 0 5em 0;
