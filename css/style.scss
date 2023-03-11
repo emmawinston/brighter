@@ -143,6 +143,7 @@ button.btn, input.btn {
   /* display: table; */
   border: 1px solid #001858;
   background-color: #fef6e4;
+  z-index:9999;
   @include bp-medium {
     width: 50%;
   }
@@ -173,7 +174,7 @@ button.btn, input.btn {
   background-color: #8bd3dd;
   padding: 30px;
   border: 1px solid #001858;
-}
+  }
 
 /*--------------------------------------------------------------
 	2.1 Contact
