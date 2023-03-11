@@ -139,7 +139,7 @@ button.btn, input.btn {
 
 .hero-content {
   width: 50%;
-  margin: 0 0 0 40px;
+  margin: 0 -80px 0 40px;
   /* display: table; */
   border: 1px solid #001858;
   background-color: #fef6e4;
@@ -168,6 +168,8 @@ button.btn, input.btn {
 }
 
 .hero-profile {
+  width: 60%;
+  margin-right: 40px;
   background-color: #8bd3dd;
   padding: 30px;
   border: 1px solid #001858;
