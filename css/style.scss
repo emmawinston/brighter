@@ -127,6 +127,7 @@ button.btn, input.btn {
 --------------------------------------------------------------*/
 .hero-container {
   display:flex;
+  align-items: center;
   margin: 10em 0 9em 0;
   @include bp-xsmall {
     margin: 5em 0 5em 0;
