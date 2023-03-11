@@ -140,10 +140,10 @@ button.btn, input.btn {
 .hero-content {
   width: 50%;
   margin: 0 -80px 0 40px;
-  /* display: table; */
   border: 1px solid #001858;
   background-color: #fef6e4;
   z-index:9999;
+
   @include bp-medium {
     width: 50%;
   }
