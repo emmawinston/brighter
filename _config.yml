@@ -16,12 +16,12 @@
 title: "A better future is possible."
 sitename: 'Brighter'
 email: 'emma.winston@gmail.com'
-description: "x"
+description: "Evidence-based hypnotherapy for the here-and-now."
 baseurl: "/brighter" # the subpath of your site, e.g. /blog
 url: "https://emmawinston.me/brighter" # the base hostname & protocol for your site, e.g. https://example.com
-twitter_username: 'x'
-github_username: 'x'
-medium_username: 'x'
+twitter_username: ''
+github_username: ''
+medium_username: ''
 
 # Build settings
 markdown: kramdown
