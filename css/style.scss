@@ -94,12 +94,15 @@ button.btn, input.btn {
   border-right: solid 1px #cedfea;
   &.container {
     background-color: #fef6e4;
-    background-image: url('https://emmawinston.me/brighter/img/and-breathe.jpeg');
-    background-size: cover;
-    background-repeat: no-repeat;
     padding: 0;
     padding-top: 40px;
   }
+}
+
+.main.container .container {
+    background-image: url('https://emmawinston.me/brighter/img/and-breathe.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .section-jump {
